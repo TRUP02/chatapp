@@ -1,0 +1,49 @@
+nav{
+    background-color:rgb(54, 53, 53);
+    border-radius: 12px;
+    padding: 7px;
+}
+img{
+    display:block;
+    margin: auto;
+    width:50px;
+}
+.container{
+    background-color: rgb(105, 105, 252);
+    height:70vh;
+    border-radius: 12px;
+    padding: 20px;
+    overflow-y: auto;
+    margin-bottom: 12px;
+}
+.message{
+    background-color:rgb(54, 53, 53);;
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 9px;
+    color:white;
+    max-width:50vh;
+}
+.right{
+ float: right;
+ clear: both;
+}
+.left{
+    float: left;
+    clear: both;
+}
+.form{
+    text-align: center;
+}
+#sendip {
+    width:90%;
+    border-radius: 12px;
+    border: black solid 2px;
+    height: 25px;
+}
+.btn{
+    height:25px;
+    cursor: pointer;
+    border-radius: 12px;
+    border: black 2px solid;
+}
